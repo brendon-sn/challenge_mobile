@@ -67,11 +67,6 @@ Uma aplicação mobile para plataforma de marketplace, construída com React Nat
 
 1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/kaiquespe/marketplace-mobile.git
-   cd mba-marketplace-mobile
-   ```
-
 2. Instale as dependências:
 
    ```bash
