@@ -107,8 +107,6 @@ Este projeto segue uma arquitetura baseada em componentes com roteamento baseado
 
 ## Integração com Backend
 
-Repositorio do backend: https://github.com/kaiquespe/marketplace-api.git
-
 A aplicação se conecta a uma API RESTful backend rodando em `http://localhost:3333`. A API gerencia:
 
 - Autenticação de usuário e gerenciamento de sessão
